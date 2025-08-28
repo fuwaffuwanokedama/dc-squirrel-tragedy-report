@@ -1,2 +1,22 @@
-# dc-squirrel-tragedy-report
-An in-depth analysis of the infanticide (kit killing) phenomenon involving Eastern Gray Squirrels in a Washington D.C. urban environment.
+# 都市の野生動物が見つめる鏡：トウブハイイロリス新生児死亡事象に関する分析レポート
+
+![GitHub last commit](https://img.shields.io/github/last-commit/あなたのユーザー名/dc-squirrel-tragedy-report)
+
+---
+
+### 概要
+
+このリポジトリは、2025年8月25日にワシントンD.C.のライブストリームで観察された、トウブハイイロリス（*Sciurus carolinensis*）の新生児5匹が死亡した悲劇的な事象に関する包括的な分析レポートを公開するものです。
+
+このレポートは、自然行動と人為的ストレス要因との複雑な相互作用を調査し、同様の悲劇の再発を防ぐための具体的な提言をまとめています。
+
+### 背景
+
+世界中の視聴者が見守る中、人工の巣箱にいた5匹の赤ちゃんリスが別のリスによって殺されるという子殺し（幼獣殺傷）事象が発生しました。事件後の管理不在の問題も含め、その根本原因と管理者の責任を問うため、この詳細な調査が行われました。
+
+### レポート全文
+
+詳細な報告書の全文は、以下のリンクからお読みいただけます。
+
+* **[報告書全文を読む（日本語）](./REPORT_JA.md)**
+* *（英語版の要約は準備中です）*
